@@ -1,7 +1,7 @@
 Hello there 👋
 
 # About Me
-- 🧑‍💻 Raphael Machado Berger, Software Engineer (Backend)
+- 🧑‍💻 Raphael Machado Berger -- Backend / DevOps
 - 🎓 Bachelor's Degree in Computer Science - [FAESA](https://www.faesa.br/).
 
 # Current Tech Stack
